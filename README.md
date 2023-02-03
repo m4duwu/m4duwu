@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+Hi my name is Haziqshah, A year 2 Computer Engineering Undergraduate studying in SIT! I am also an aspiring software Engineer! 
 
 <!--
 **m4duwu/m4duwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
