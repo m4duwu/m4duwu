@@ -24,9 +24,9 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 
 ---
 
-## :hammer_and_wrench: Computing Knowledge :
+### :hammer_and_wrench: Computing Knowledge :
 
-### 🖥️ Programming Languages :
+#### 🖥️ Programming Languages :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@ Hi my name is Haziqshah, an aspiring software Engineer!
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
 </div>
 
-### 🤖 IDE : 
+#### 🤖 IDE : 
 <div>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" title="NetBeans"  alt="NetBeans" width="40" height="40"/>&nbsp;
