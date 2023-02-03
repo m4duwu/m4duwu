@@ -1,8 +1,3 @@
-## Hi there 👋 
-Hi my name is Haziqshah, A year 2 Computer Engineering Undergraduate studying in SIT! I am also an aspiring software Engineer! 
-
-I specialize in developing software innovations to solve real world problems!
-
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -17,11 +12,10 @@ I specialize in developing software innovations to solve real world problems!
 Hi my name is Haziqshah, an aspiring software Engineer! 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m a year 2 Computer Engineering Undergraduate studying in Singapore Institute of technology!
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I aspire to be a software engineer who uses his critical thinking skills to develop software innovations to solve real world problems!
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
