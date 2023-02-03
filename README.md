@@ -2,20 +2,7 @@
 Hi my name is Haziqshah, A year 2 Computer Engineering Undergraduate studying in SIT! I am also an aspiring software Engineer! 
 
 I specialize in developing software innovations to solve real world problems!
-<!--
-**m4duwu/m4duwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -29,6 +16,8 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 Hi my name is Haziqshah, an aspiring software Engineer! 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m a year 2 Computer Engineering Undergraduate studying in Singapore Institute of technology!
 
