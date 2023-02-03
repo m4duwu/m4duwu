@@ -33,3 +33,4 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4duwu&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=m4duwu&theme=tokyonight&layout=compact)]
