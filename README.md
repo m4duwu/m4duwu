@@ -40,7 +40,7 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 
 ### 🤖 IDE : 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fubiq.co%2Fdatabase-blog%2Ftop-mysql-workbench-alternatives%2F&psig=AOvVaw2KOCxA3UbGYZka2uJnvb5B&ust=1675527031155000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi9t93e-fwCFQAAAAAdAAAAABAE" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://i0.wp.com/ubiq.co/database-blog/wp-content/uploads/2020/10/mysql-workbench-alternatives.png?resize=730%2C410&ssl=1" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
 ---
