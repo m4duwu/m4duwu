@@ -1,6 +1,7 @@
 ### Hi there 👋 
 Hi my name is Haziqshah, A year 2 Computer Engineering Undergraduate studying in SIT! I am also an aspiring software Engineer! 
 
+I specialize in developing software innovations to solve real world problems!
 <!--
 **m4duwu/m4duwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💻 Computing knowledge
+
+💻 Programming languages
