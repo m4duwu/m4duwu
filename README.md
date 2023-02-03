@@ -24,7 +24,9 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Computing Knowledge :
+---
+### 🖥️ Programming Languages :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -36,6 +38,11 @@ Hi my name is Haziqshah, an aspiring software Engineer!
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
 </div>
 
+### 🤖 IDE : 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fubiq.co%2Fdatabase-blog%2Ftop-mysql-workbench-alternatives%2F&psig=AOvVaw2KOCxA3UbGYZka2uJnvb5B&ust=1675527031155000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi9t93e-fwCFQAAAAAdAAAAABAE title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4duwu&theme=tokyonight)](https://git.io/streak-stats)
