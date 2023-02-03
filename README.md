@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hi there 👋 
 Hi my name is Haziqshah, A year 2 Computer Engineering Undergraduate studying in SIT! I am also an aspiring software Engineer! 
 
 I specialize in developing software innovations to solve real world problems!
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💻 Computing knowledge
+## 💻 Computing knowledge
 
-# 💻 Programming languages
+### 💻 Programming languages
