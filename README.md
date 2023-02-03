@@ -36,3 +36,8 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4duwu&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4duwu&theme=tokyonight&layout=compact)]
+
+### 📖 Research Papers Published :
+- "Clustering, Separation, and Connection: A Tale of Three Characteristics"
+published in 2021 IEEE International Conference on Software Maintenance and Evolution (ICSME).
+Link to paper: https://ieeexplore.ieee.org/document/9609186
