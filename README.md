@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### 💻 Computing knowledge
 
-💻 Programming languages
+# 💻 Programming languages
