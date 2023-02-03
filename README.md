@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-Hi my name is Haziqshah, an aspiring software Engineer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Hi my name is Haziqshah, an aspiring software Engineer! 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m a year 2 Computer Engineering Undergraduate studying in Singapore Institute of technology!
 
