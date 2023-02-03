@@ -25,7 +25,7 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 ---
 
 ## :hammer_and_wrench: Computing Knowledge :
----
+
 ### 🖥️ Programming Languages :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -47,6 +47,7 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" title="Eclipse"  alt="Eclipse" width="80" height="40"/>&nbsp;
 
 </div>
+
 ---
 
 ### :fire: My Stats :
