@@ -21,6 +21,8 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 
 - :mailbox:How to reach me: <img src="https://img.shields.io/badge/email-haziqshahwira%40gmail.com-blue" title="haziqshahwira@gmail.com" alt="haziqshahwira@gmail.com" >
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -33,11 +35,14 @@ Hi my name is Haziqshah, an aspiring software Engineer!
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4duwu&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4duwu&theme=tokyonight&layout=compact)]
 
+---
 ### 📖 Research Papers Published :
 - "Clustering, Separation, and Connection: A Tale of Three Characteristics"
 published in 2021 IEEE International Conference on Software Maintenance and Evolution (ICSME).
 Link to paper: https://ieeexplore.ieee.org/document/9609186
+---
