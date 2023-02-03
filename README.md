@@ -19,7 +19,7 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: <img src="https://img.shields.io/badge/email-haziqshahwira%40gmail.com-blue" width="30">
+- :mailbox:How to reach me: <img src="https://img.shields.io/badge/email-haziqshahwira%40gmail.com-blue" title="C" alt="C" >
 
 
 ## 💻 Computing knowledge
