@@ -18,7 +18,7 @@ Hi my name is Haziqshah, an aspiring software Engineer!
 
 - :seedling: I aspire to be a software engineer who uses his critical thinking skills to develop software innovations to solve real world problems!
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. I also enjoy volunteering 😸
 
 - :mailbox:How to reach me: <img src="https://img.shields.io/badge/email-haziqshahwira%40gmail.com-blue" title="haziqshahwira@gmail.com" alt="haziqshahwira@gmail.com" >
 
